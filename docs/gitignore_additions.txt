@@ -1,0 +1,7 @@
+# Recommended additions to the EXISTING repository .gitignore
+# Preserve the current comprehensive Python .gitignore on GitHub.
+*.mp4
+*.wav
+*.srt
+transcript.txt
+transcript_segments.csv

@@ -16,7 +16,7 @@ Reviewed the uploaded `flowers(1).ipynb`, `flowers-checkpoint(1).ipynb`, `README
 | Plots | Scatter, sigmoid, loss history and red/blue grid | Reproducible plots with axis labels, legend and boundary contour |
 | Checkpoint | Duplicate/stale notebook copy at root | Preserve the supplied checkpoint only under `archive/` (don't use as primary notebook) |
 | README | Only short description with `# flowers` title | Full setup, structure, model limits and execution instructions |
-|
+| Transcript utility | Requires `faster-whisper`, model download and video | Kept as a **separate optional tool**; cannot test transcription without an input video |
 
 ## Verification strategy
 
