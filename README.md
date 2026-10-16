@@ -47,7 +47,6 @@ For formulas, comparative observations, and test limitations, see [`docs/technic
 
 - Not a multi-layer perceptron or full image classification workflow; inputs are two numerical features.
 - Dataset is extremely small and has no held-out test set; add real data, validation, and appropriate evaluation metrics before reporting generalization.
-- Separate optional video-transcription notebook needs Google Colab, network access to download model weights, and user-supplied video.
 
 ## Coursework and privacy
 
