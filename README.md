@@ -13,7 +13,6 @@ Python/Jupyter learning examples for foundational neural networks and language-p
 | `docs/Flowers_Classification_Using_Artificial_Neural_Network.pdf` | Original supporting explanation (Hindi) |
 | `archive/flowers_original.ipynb` | Original uploaded class notebook, preserved for reference |
 | `archive/flowers_checkpoint_original.ipynb` | Original checkpoint, preserved only for comparison |
-| `tools/video_transcription_colab.ipynb` | Optional Colab video/audio transcription utility, separate from flower classification |
 | `requirements.txt` | Runtime dependencies for the classifier |
 | `docs/gitignore_additions.txt` | Optional new ignore patterns; preserve existing repository `.gitignore` |
 
