@@ -1,4 +1,4 @@
-# Deep Learning for NLP — IIT Jodhpur Learning Practicals
+# Deep Learning for NLP 
 
 Python/Jupyter learning examples for foundational neural networks and language-processing tools. **This repository currently demonstrates a single-neuron flower classifier, not a trained deep network or a flower-species recognition system.** The red/blue labels are synthetic classroom categories.
 
